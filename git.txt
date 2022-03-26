@@ -1,0 +1,6 @@
+git clone url
+git status
+git status -u
+git add .
+git commit -m "message"
+git push
